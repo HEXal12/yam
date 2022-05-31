@@ -1,0 +1,2 @@
+# yam
+game yam ncurses
